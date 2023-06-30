@@ -1,0 +1,54 @@
+{
+    "sections": [
+        {
+            "tiles": [
+                {
+                    "is_playable": true,
+                    "image_url": "https://stag9.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='1088061'&EntityType='Item'&EntityId='19526'&Width=444&Height=250",
+                    "subtitle": "",
+                    "display_from": 1539187200,
+                    "image_ratio": "16by9",
+                    "position": 0,
+                    "title": "",
+                    "display_until": 2532268800,
+                    "action_data": "{\"videoId\": \"19526\", \"play\": true}"
+                },
+                {
+                    "is_playable": true,
+                    "image_url": "https://stag9.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='1372731'&EntityType='Item'&EntityId='23125'&Width=444&Height=250",
+                    "subtitle": "",
+                    "display_from": 1539187200,
+                    "image_ratio": "16by9",
+                    "position": 1,
+                    "title": "",
+                    "display_until": 2532268800,
+                    "action_data": "{\"videoId\": \"23125\", \"play\": true}"
+                },
+                {
+                    "is_playable": true,
+                    "image_url": "https://stag9.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='478867'&EntityType='Item'&EntityId='23141'&Width=444&Height=250",
+                    "subtitle": "",
+                    "display_from": 1539187200,
+                    "image_ratio": "16by9",
+                    "position": 2,
+                    "title": "",
+                    "display_until": 2532268800,
+                    "action_data": "{\"videoId\": \"23141\", \"play\": true}"
+                },
+                {
+                    "is_playable": true,
+                    "image_url": "https://stag9.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='479534'&EntityType='Item'&EntityId='19897'&Width=444&Height=250",
+                    "subtitle": "",
+                    "display_from": 1539187200,
+                    "image_ratio": "16by9",
+                    "position": 3,
+                    "title": "",
+                    "display_until": 2532268800,
+                    "action_data": "{\"videoId\": \"19897\", \"play\": true}"
+                }
+            ],
+            "positions": 0,
+            "title": ""
+        }
+    ]
+}
