@@ -11,7 +11,7 @@
                     "position": 0,
                     "title": "",
                     "display_until": 2532268800,
-                    "action_data": "{\"videoId\": \"19526\", \"play\": true}"
+                    "action_data": "{\"videoIdx\": \"19526\", \"play\": true}"
                 },
                 {
                     "is_playable": true,
@@ -22,7 +22,7 @@
                     "position": 1,
                     "title": "",
                     "display_until": 2532268800,
-                    "action_data": "{\"videoId\": \"23125\", \"play\": true}"
+                    "action_data": "{\"videoIdx\": \"23125\", \"play\": true}"
                 },
                 {
                     "is_playable": true,
@@ -33,7 +33,7 @@
                     "position": 2,
                     "title": "",
                     "display_until": 2532268800,
-                    "action_data": "{\"videoId\": \"23141\", \"play\": true}"
+                    "action_data": "{\"videoIdx\": \"23141\", \"play\": true}"
                 },
                 {
                     "is_playable": true,
@@ -44,7 +44,7 @@
                     "position": 3,
                     "title": "",
                     "display_until": 2532268800,
-                    "action_data": "{\"videoId\": \"19897\", \"play\": true}"
+                    "action_data": "{\"videoIdx\": \"19897\", \"play\": true}"
                 }
             ],
             "positions": 0,
